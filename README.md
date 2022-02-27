@@ -22,7 +22,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/sreyhsingh/W2HBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
